@@ -1,0 +1,33 @@
+/* File: styles.css */
+
+/* Reset some default styles */
+body {
+  margin: 0;
+  padding: 0;
+}
+
+/* Apply a background color */
+body {
+  background-color: #f0f0f0;
+}
+
+/* Style the button */
+#myButton {
+  background-color: #3498db;
+  color: #ffffff;
+  padding: 10px 20px;
+  cursor: pointer;
+}
+
+/* Add a hover effect to the button */
+#myButton:hover {
+  background-color: #2980b9;
+}
+
+/* Style the data container */
+#dataContainer {
+  margin-top: 20px;
+  padding: 10px;
+  background-color: #ecf0f1;
+  border: 1px solid #bdc3c7;
+}

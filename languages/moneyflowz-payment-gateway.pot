@@ -1,0 +1,4 @@
+# Translation Template for Moneyflowz Payment Gateway
+msgid ""
+msgstr ""
+"Language: en\n"
